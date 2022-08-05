@@ -1,0 +1,12 @@
+#sh pretrain.sh
+time=$(date "+%Y%m%d-%H%M%S")
+echo "${time}"
+python 2.train.py
+#sleep 1h
+time=$(date "+%Y%m%d-%H%M%S")
+echo "${time}"
+python 2.get_result.py
+#sleep 1h
+time=$(date "+%Y%m%d-%H%M%S")
+echo "${time}"
+python get_badcase.py

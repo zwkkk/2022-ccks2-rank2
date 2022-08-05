@@ -1,0 +1,1 @@
+zip -r copy.zip align_model.py dataset.py encoders.py evaluate.py get_result.py trainer.py train.py utils.py ./models pretrain.sh r2d2_pretrain.py ../data/build_text_input.py
