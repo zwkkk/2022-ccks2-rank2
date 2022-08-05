@@ -2,7 +2,7 @@
 队伍名：xxxxx  
 复赛分数：0.8997（第二）  
 所有运行过程文件可参考：链接: https://pan.baidu.com/s/1jrdarunuUaG3mJwljAdeBQ 提取码: nm5h  
-显卡要求：A1OO*7  
+显卡要求：A100*7  
 
 # 1 环境配置  
 建立虚拟环境  
